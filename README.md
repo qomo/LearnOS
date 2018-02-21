@@ -23,3 +23,9 @@ $ diff Makefile Makefile_modified
 4. make编译  
 
 5. sudo make install安装
+
+[参考：ubuntu下安装bochs出现的问题和解决方法](https://wenku.baidu.com/view/2baff2a92e3f5727a4e9627a.html)
+
+
+## bochs 虚拟机使用
+> 命令bochs直接回车，选择4保存配置文件，即可知道
